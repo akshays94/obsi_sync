@@ -40,7 +40,7 @@ def main():
 
 
 def get_repo():
-    return "cd ~/Sync; cd \"Akie's Vault\";"
+    return "cd ~/projects/akies-obsidian;"
 
 
 def get_commit_msg():
